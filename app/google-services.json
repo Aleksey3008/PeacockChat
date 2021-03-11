@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "707881959624",
+    "project_id": "peacockchat-89415",
+    "storage_bucket": "peacockchat-89415.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707881959624:android:0d8ee1df89e8ed5bf265fd",
+        "android_client_info": {
+          "package_name": "android.example.peacockchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707881959624-6e85n6d1frlimajk7qk64k4mjqab8as2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.peacockchat",
+            "certificate_hash": "d3e08daa8f50f49050ec26af8b57053e813fc57a"
+          }
+        },
+        {
+          "client_id": "707881959624-5l30ri7eu92gh4dc0hll4kf453gcoffk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcyW92-RgzFH0zpkno_Fu8NepLid9rUI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707881959624-5l30ri7eu92gh4dc0hll4kf453gcoffk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
